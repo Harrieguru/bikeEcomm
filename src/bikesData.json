@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Mountain Bike",
+        "description": "A sturdy mountain bike for off-road adventures.",
+        "imageUrl": "https://source.unsplash.com/300x200/?mountain-bike"
+      },
+      {
+        "id": 2,
+        "title": "Road Bike",
+        "description": "A sleek road bike for fast and smooth rides on the pavement.",
+        "imageUrl": "https://source.unsplash.com/300x200/?road-bike"
+      },
+      {
+        "id": 3,
+        "title": "City Bike",
+        "description": "A comfortable city bike for commuting and leisure rides.",
+        "imageUrl": "https://source.unsplash.com/300x200/?city-bike"
+      }
+]
